@@ -1,5 +1,7 @@
 # SportsStore
 
+From book https://learning.oreilly.com/library/view/pro-angular-9/9781484259986/html/421542_4_En_7_Chapter.xhtml
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.7.
 
 ## Development server
